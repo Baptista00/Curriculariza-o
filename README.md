@@ -1,2 +1,2 @@
-# Curriculariza-o
+# Curricularização
 Trabalho 
